@@ -2,7 +2,7 @@
 
  ![preview](./.github/preview.gif)
  
- - Dicionário totalmente em Inglês, utilizando API
+ - Dicionário em Inglês, utilizando API
 
  - Projeto construído durante o curso PROPROFISSÃO.
 
